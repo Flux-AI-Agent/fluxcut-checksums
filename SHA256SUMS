@@ -130,6 +130,10 @@ e83b19f4d622da152a0b154f1eba718af1c1cf1be67dad5ca4bffdb7ba9a7a0d  v41/fluxcut-re
 e83b19f4d622da152a0b154f1eba718af1c1cf1be67dad5ca4bffdb7ba9a7a0d  v42/fluxcut-reviewer/SKILL.md
 93c8e2f546baf99097b694f715a6482fe9772151cc9e3407310894377f20c7ad  v42/AGENTS.md
 99674096115b07fb49a9742a7d7cd6117f5ab81ed1b6339bb21cbcfedccf9339  v42/SETUP.md
+428ca81cde1d6184eeb0c59d927471b905551d5d5cc43c1770053d0a111cf5d4  v43/fluxcut-maker/SKILL.md
+96f4b1608e92d01cc2e43fe897d5795fdc5e555a877aa2853270af23f9fe6b10  v43/fluxcut-reviewer/SKILL.md
+b7bc2b9ea65cea7ba4a33ee567776fa7fa94427fc447f49a01e15547652eaf34  v43/AGENTS.md
+e2ae2b0c3649ff11bd8e2b39a7dc43c924e37d997e265ce6e9a763cee7ca366a  v43/SETUP.md
 a5bcab4932bb2a95f8041d5b438b563cbe4d07f9d9f456ceacae4230f1d221c2  fluxcut_capture-0.1.0-py3-none-any.whl
 9957e517223c8e7fbf2f1313886c85e421961dcc4d8f14fc6143f9a6827c2d6c  fluxcut_capture-0.2.0-py3-none-any.whl
 6da0e1a4171d85081653da22f4019cd159087f5fd09ff8a14aac95afb55126f1  fluxcut_capture-0.3.0-py3-none-any.whl
@@ -144,3 +148,4 @@ d592d0a78d9e7d79021577e2f1f73d49a241c431e10807945855b0d53c4fff83  fluxcut_captur
 8070fae09bc4d35dd268fda0c5943b0318c9f15e78a40292a3bd3b5597da6733  fluxcut_capture-0.5.6-py3-none-any.whl
 8e77bc4ca4fb66f35941ed148c767942a2210adfb6450d886b85ba040e05641e  fluxcut_capture-0.5.7-py3-none-any.whl
 ba743fa2faf2d266e9b666d9c5498430dec5120b7be5cd22a3fd8d5419226ceb  fluxcut_capture-0.5.8-py3-none-any.whl
+a4775a15128d9b5b82fd43c9325bd34c4566f13b9608a75948567460bc548295  fluxcut_capture-0.5.9-py3-none-any.whl
